@@ -1,7 +1,8 @@
 import Vue from 'vue';
+import VisualFlow from 'vue-visual-flow';
 import App from './App.vue';
-import './plugins/element';
-import './common/index.scss';
+
+Vue.use(VisualFlow);
 
 Vue.config.productionTip = false;
 
