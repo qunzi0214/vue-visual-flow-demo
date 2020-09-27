@@ -9,26 +9,21 @@ export default [
         children: [
           {
             label: '叶子节点-1',
+            tips: '节点提示信息',
             inPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
             outPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
 
@@ -36,38 +31,29 @@ export default [
           },
           {
             label: '叶子节点-2',
+            tips: '节点提示信息',
             inPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
             outPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
 
@@ -83,26 +69,21 @@ export default [
     children: [
       {
         label: '叶子节点-3',
+        tips: '节点提示信息',
         inPoints: [
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
         ],
         outPoints: [
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
         ],
 
@@ -110,26 +91,21 @@ export default [
       },
       {
         label: '叶子节点-4',
+        tips: '节点提示信息',
         inPoints: [
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
         ],
         outPoints: [
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
         ],
 
@@ -137,26 +113,21 @@ export default [
       },
       {
         label: '叶子节点-5',
+        tips: '节点提示信息',
         inPoints: [
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
         ],
         outPoints: [
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
         ],
 
@@ -164,26 +135,21 @@ export default [
       },
       {
         label: '叶子节点-6',
+        tips: '节点提示信息',
         inPoints: [
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
         ],
         outPoints: [
           {
             dataType: 'any',
-            labelName: 'xxx',
-
-            id: 'xxx',
+            labelName: '锚点提示信息',
           },
         ],
 
@@ -201,26 +167,21 @@ export default [
         children: [
           {
             label: '叶子节点-7',
+            tips: '节点提示信息',
             inPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
             outPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
 
@@ -228,38 +189,29 @@ export default [
           },
           {
             label: '叶子节点-8',
+            tips: '节点提示信息',
             inPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
             outPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
 
@@ -273,26 +225,20 @@ export default [
         children: [
           {
             label: '叶子节点-9',
+            tips: '节点提示信息',
             inPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
             outPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
 
@@ -300,44 +246,33 @@ export default [
           },
           {
             label: '叶子节点-10',
+            tips: '节点提示信息',
             inPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
             outPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
 
@@ -351,26 +286,21 @@ export default [
         children: [
           {
             label: '叶子节点-11',
+            tips: '节点提示信息',
             inPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
             outPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
 
@@ -378,18 +308,15 @@ export default [
           },
           {
             label: '叶子节点-12',
+            tips: '节点提示信息',
             inPoints: [
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
               {
                 dataType: 'any',
-                labelName: 'xxx',
-
-                id: 'xxx',
+                labelName: '锚点提示信息',
               },
             ],
             outPoints: [],

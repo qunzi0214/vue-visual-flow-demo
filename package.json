@@ -1,5 +1,5 @@
 {
-  "name": "vue-g6-editor",
+  "name": "vue-visual-flow-demo",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
     "@antv/g6": "^3.7.3",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
-    "vue-visual-flow": "^0.0.2"
+    "vue-visual-flow": "0.0.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
